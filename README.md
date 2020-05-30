@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-using-LSTM
-1.Predicting future temperature(Huge weather data ) using techniques like Moving window average and LSTM(single and multi step).
+1.Predicting future temperature (using 7 years of weather data ) by making use of time series models like Moving window average and LSTM(single and multi step).
 
 2.Data Link : Max Plank Institute, https://www.bgc-jena.mpg.de/wetter/
 
